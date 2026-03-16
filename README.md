@@ -5,7 +5,7 @@
 
 ---
 
-🚀 Get the Full Editable Template (.pbit)
+🚀 Get the Full Editable Template (.pbit) for free!! instead of paying
 👉 Download on Gumroad https://manjutheanalyst.gumroad.com
 
 ---Welcome! This is a professional Power BI template designed to analyze global sales, profit trends, and Year-over-Year (YoY) growth.
