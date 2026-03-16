@@ -1,3 +1,4 @@
+![Dashboard Preview](power%20bi%20thumbnail.png)
 # 📊 Global Sales Analysis Dashboard
 ### Professional Power BI Template
 
