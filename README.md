@@ -7,6 +7,7 @@
 ---
 
 ### 📥 [Download the Full Power BI Template Here](https://manjutheanalyst.gumroad.com)
+https://manjutheanalyst.gumroad.com
 ---Welcome! This is a professional Power BI template designed to analyze global sales, profit trends, and Year-over-Year (YoY) growth.
 
 How to get started:
